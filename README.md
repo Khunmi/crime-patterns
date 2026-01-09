@@ -128,6 +128,3 @@ All endpoints accept `POST` parameters.
 - Add cached aggregation for high-traffic views.
 - Replace the timeseries list with a charting library (ECharts/Chart.js).
 - Optional vector tile or hexbin heatmap for smoother zoom behavior.
-
-## License
-Add a license that matches your intended use.
