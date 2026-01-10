@@ -1,0 +1,25 @@
+*.so
+*.geojson
+*.tif
+*.nc
+*.parquet
+*.zip
+*.csv
+*.tsv
+book/unused/*
+book/image_prediction/*
+venv/*
+!CNAME.txt
+home/*
+*.DS_Store
+# MyST build outputs
+_build
+
+# MyST build outputs
+_build
+
+# MyST build outputs
+_build
+
+# MyST build outputs
+_build

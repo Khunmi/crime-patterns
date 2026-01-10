@@ -36,7 +36,7 @@
     }
 
     function require_write_token() {
-        $config_path = '/Applications/XAMPP/xamppfiles/htdocs/config/db.php';
+        $config_path = 'home/kunmiade/config/db.php';
         $config = [];
         if (file_exists($config_path)) {
             $config = require $config_path;
